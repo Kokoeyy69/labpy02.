@@ -36,7 +36,7 @@ flowchart TD
 
 ## Contoh Output Program
 
-![Output](output/outputticket.png)
+![Output](outputticket.png)
 
 
 ## Cara Kerja Program:
