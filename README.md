@@ -136,6 +136,8 @@ berikut adalah contoh output program apabila berhasil
 - Ulang atau Keluar: Pengguna bisa memilih operasi lain atau keluar dari program.
 
 
+## -------------------------------------------------------------------------------------------
+
 
 # Sistem Pembelian Tiket
 Program sederhana untuk menghitung harga tiket berdasarkan jenis tiket dan status member.
